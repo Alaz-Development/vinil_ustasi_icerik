@@ -1,5 +1,14 @@
 {
   "format": 1,
-  "packs": [],
+  "packs": [
+    {
+      "id": "paket_01",
+      "version": 1,
+      "format": 1,
+      "files": {
+        "pack.json": "f8cd8f5298587a66b7d6a005c87a8b3dd4dc8b10ac99cf43c9aa3192eb61d90b"
+      }
+    }
+  ],
   "withdrawn": []
 }
