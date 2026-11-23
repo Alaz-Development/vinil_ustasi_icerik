@@ -3,10 +3,10 @@
   "packs": [
     {
       "id": "paket_01",
-      "version": 1,
+      "version": 2,
       "format": 1,
       "files": {
-        "pack.json": "f8cd8f5298587a66b7d6a005c87a8b3dd4dc8b10ac99cf43c9aa3192eb61d90b"
+        "pack.json": "14ab0bb0f9ecb78c7ddb9a047dc429c78fccee04b2de0659bc11258fe29981af"
       }
     }
   ],
